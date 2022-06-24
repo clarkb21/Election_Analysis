@@ -20,3 +20,8 @@ print(f"I received {my_votes / total_votes *100}% of the total votes.")
 
 print(f"I received {perecentage_votes}% of the total votes.")
 
+x=1 
+y=10
+
+if x==1 and y==10:
+    print("x equals 1 AND y equals 10")
