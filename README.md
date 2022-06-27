@@ -9,13 +9,16 @@
   2. Total number of votes for each candidate
   3. Percentage of votes for each candidate
   4. Winner of the election based on popular vote
-
-
-
+- Additionally, I reported the following along with the election audit: 
+  1. Vote count for each county included
+  2. Percentage of the total vote for each county
+  3. County with the most votes
+- Python was used to automate the results and write the final results to a text file.
 
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code 1.68.1
+- MSU Bootcamp Spot Module 3: https://courses.bootcampspot.com/courses/2508/modules
 
 ## Summary
 
