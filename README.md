@@ -33,11 +33,17 @@ The analysis of the election shows that:
     - Diana GeGette received 73.8% of the vote with 272,892 votes.
     - Raymon Anthony Doane received 3.1% of the vote with 11,606 votes.
  - Based on the results, the winner of the election was Diana DeGette, who received 73.8% of the vote with 272,892 votes. 
+ 
+ ![image](https://user-images.githubusercontent.com/104038813/176028032-9e959291-fcda-4d7a-bdaf-8bd67fd3a7e5.png)
+
 
 ## Challenge Overview
 - Additionally, I reported the following along with the election audit: 
 1. Vote count for each county included
 2. Percentage of the total vote for each county
 3. County with the most votes
+
+![image](https://user-images.githubusercontent.com/104038813/176028119-146b55d8-8a73-4bae-9a8b-21339857c01a.png)
+
 
 ## Challenge Summary
