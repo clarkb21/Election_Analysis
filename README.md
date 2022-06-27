@@ -22,9 +22,17 @@
 - MSU Bootcamp Spot Module 3: https://courses.bootcampspot.com/courses/2508/modules
 
 ## Summary
-
-
-
+The analysis of the election shows that: 
+- 369,711 total votes were cast
+- The candidates were:
+    - Charles Casper Stockholm
+    - Diana DeGette
+    - Raymon Anthony Doane
+ - The results were: 
+    - Charles Casper Stockholm received 23.0& of the vote with 85,213 votes. 
+    - Diana GeGette received 73.8% of the vote with 272,892 votes.
+    - Raymon Anthony Doane received 3.1% of the vote with 11,606 votes.
+ - Based on the results, the winner of the elction was Diana DeGette, who received 73.8% of the vote with 272,892 votes. 
 
 ## Challenge Overview
 
