@@ -11,9 +11,9 @@
 4. Percentage of votes for each candidate
 5. Winner of the election based on popular vote
 - Additionally, I reported the following along with the election audit: 
-  1. Vote count for each county included
-  2. Percentage of the total vote for each county
-  3. County with the most votes
+1. Vote count for each county included
+2. Percentage of the total vote for each county
+3. County with the most votes
 - Python was used to automate the results and write the final results to a text file.
 
 ## Resources
