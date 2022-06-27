@@ -24,6 +24,11 @@
 ## Summary
 The analysis of the election shows that: 
 - 369,711 total votes were cast
+- Three different counties participated in this election:
+    - Jefferson County, which had 10.5% of the vote, with a total of 38,855 votes.
+    - Denver County, which had 82.8% of the vote, with a total of 306,055 votes.
+    - Arapahoe County, which had 6.7% of the vote, with a total of 24,801 votes.
+- Based on the results, Denver county had the largest number of votes from its citizens.
 - The candidates were:
     - Charles Casper Stockholm
     - Diana DeGette
