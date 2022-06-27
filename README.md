@@ -47,3 +47,10 @@ The analysis of the election shows that:
 
 
 ## Challenge Summary
+
+- By executing the election audit using Python, it is possible to now run this same program for any election. 
+- Some modifications to the code are necessary. For example, the file that is being loaded into the Python script to run the analysis on needs to be updated to show the file for the specific election. 
+- The location of the new CSV files need to be updated, and the location of the text file where the results are being saved to will also need to be changed. 
+
+![image](https://user-images.githubusercontent.com/104038813/176028293-81dc783e-2529-461f-ae73-60a774c79770.png)
+
