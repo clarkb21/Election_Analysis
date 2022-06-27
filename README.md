@@ -10,11 +10,6 @@
 3. Total number of votes for each candidate
 4. Percentage of votes for each candidate
 5. Winner of the election based on popular vote
-- Additionally, I reported the following along with the election audit: 
-1. Vote count for each county included
-2. Percentage of the total vote for each county
-3. County with the most votes
-- Python was used to automate the results and write the final results to a text file.
 
 ## Resources
 - Data Source: election_results.csv
@@ -40,5 +35,9 @@ The analysis of the election shows that:
  - Based on the results, the winner of the election was Diana DeGette, who received 73.8% of the vote with 272,892 votes. 
 
 ## Challenge Overview
+- Additionally, I reported the following along with the election audit: 
+1. Vote count for each county included
+2. Percentage of the total vote for each county
+3. County with the most votes
 
 ## Challenge Summary
