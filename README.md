@@ -54,3 +54,9 @@ The analysis of the election shows that:
 
 ![image](https://user-images.githubusercontent.com/104038813/176028293-81dc783e-2529-461f-ae73-60a774c79770.png)
 
+- Another modification that may be necessary could be to change the "County name" depending on if it is a national election or a more local district election. 
+- The code can be changed so that inside each "print" command, it will show whether it is "state" or  "district".
+
+![image](https://user-images.githubusercontent.com/104038813/176029270-cc63470a-08ce-48b4-8737-bda497d9e7c6.png)
+
+
