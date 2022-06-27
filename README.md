@@ -6,9 +6,10 @@
 - The election audit is for a US Congressional precinct in Colorado.
 - The original task was to report the following: 
   1. Total number of votes cast
-  2. Total number of votes for each candidate
-  3. Percentage of votes for each candidate
-  4. Winner of the election based on popular vote
+  2. Complete list of all candidates
+  3. Total number of votes for each candidate
+  4. Percentage of votes for each candidate
+  5. Winner of the election based on popular vote
 - Additionally, I reported the following along with the election audit: 
   1. Vote count for each county included
   2. Percentage of the total vote for each county
